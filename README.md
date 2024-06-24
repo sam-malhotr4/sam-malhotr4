@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" width="40" height="35" alt="wave" /> I’m currently working on : Learning Swift and Vim, whilst building small projects to build my portfolio. \
-<img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/snowman-waving.gif?raw=true" width="40" height="35" alt="wave" /> Pronouns: He/him \
+<img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/snowman-waving.gif?raw=true" width="40" height="35" alt="wave" /> Pronouns: He/him 
 
 <!--
 **sam-malhotr4/sam-malhotr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
